@@ -1,10 +1,7 @@
-﻿ČAŠA SPIDERMAN    
+﻿Packing Control user documentation    
 
 Some instruction. Following text included just for test. 
-This file is part of a Microsoft SQL Server Shared Source Application.  
-Copyright (C) Microsoft Corporation.  All rights reserved.  
 
-THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY  
-KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE  
-IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A  
-PARTICULAR PURPOSE.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique turpis lobortis commodo blandit. Morbi tellus lectus, finibus a tempor quis, volutpat ut nulla. Aenean tincidunt magna ut libero ornare consequat. Maecenas ut convallis eros. In sed erat varius, molestie est pretium, porttitor tortor. Maecenas sit amet sapien at tellus consequat vehicula. Aliquam blandit molestie eros a pulvinar. Praesent scelerisque libero nec dictum facilisis. Vivamus at purus laoreet, finibus ante vel, dictum lacus. In hac habitasse platea dictumst. Quisque tempus quis mi quis vehicula. Sed volutpat pharetra nisl tempus sollicitudin. Aenean euismod, elit ut luctus porta, purus diam tincidunt orci, ac ultricies quam ipsum eu arcu. Morbi tincidunt mi ex, at luctus risus pellentesque quis. Cras rhoncus congue tortor vitae ornare.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed condimentum quis est non varius. Maecenas at urna fringilla, dapibus mi ut, eleifend nisl. Quisque fringilla viverra hendrerit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam lobortis sem est, ut sodales augue tincidunt ut. Mauris eget odio id urna accumsan porttitor sed id ex. 
