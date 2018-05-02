@@ -1,3 +1,2 @@
 # PackingControl
-
-# Packing Control simple web-application
+Packing Control simple web-application
