@@ -1,0 +1,10 @@
+﻿ČAŠA SPIDERMAN    
+
+Some instruction. Following text included just for test. 
+This file is part of a Microsoft SQL Server Shared Source Application.  
+Copyright (C) Microsoft Corporation.  All rights reserved.  
+
+THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY  
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE  
+IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A  
+PARTICULAR PURPOSE.
